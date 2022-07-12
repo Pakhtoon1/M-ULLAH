@@ -134,7 +134,7 @@ def main_apv():
 
     ak="PATHAN-1"
 
-    os.system('clear')
+    os.system('https://youtube.com/channel/UCNAeNWfXgJLaoYTIXwzxWRQ')
 
     print(logo)
 
@@ -196,7 +196,7 @@ def main_apv():
 
     else:
 
-        os.system("https://youtube.com/channel/UCNAeNWfXgJLaoYTIXwzxWRQ")
+        os.system("clear")
 
         print(logo)
 
