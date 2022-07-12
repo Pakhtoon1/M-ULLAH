@@ -158,33 +158,33 @@ def main_apv():
 
         print ("[$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
-        print ("")
 
-        myid=uuid.uuid4().hex[:10].upper()
 
-        print ("          YOUR KEY : "+ak+myid+imt)
 
-        print ("[$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
-        kok=open('/data/data/com.termux/files/usr/bin/.akkkk-cov', 'w')
 
-        kok.write(myid+imt)
 
-        kok.close()
 
-        print ("")
 
-        print ("")
 
-        print ("     Copy Key And Sent Me WhatsApp Approvel Your Key ")
 
-        print ("[$]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[$]")
 
-        time.sleep(3.5)
 
-        tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
 
-        os.system('am start https://wa.me/+923435573976?text=' + tks)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         
 
