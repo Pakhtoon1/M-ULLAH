@@ -222,7 +222,7 @@ _|  |_/       \___/\_____/\_____/\_| |_/\_| |_/
 
 '\x1b[1;92m'   Github      ||     m.ullah49  
 
-'\x1b[1;93m'   FB ID       ||    ALI 3:) 3:)
+'\x1b[1;93m'   FB ID       ||    ALI 3:)
 
 '\x1b[1;94m'   TOOL TYPE   ||    PAID
 
