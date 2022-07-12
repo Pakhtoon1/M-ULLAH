@@ -148,7 +148,7 @@ def main_apv():
 
         print(logo)
 
-        print ('\x1b[1;91m' Mr─────────────────•ᗰ-ᑌᒪᒪᗩᕼ
+        print ('\x1b[1;91m' 
 
         print ("  Your Token Is Not Approved Already")
 
