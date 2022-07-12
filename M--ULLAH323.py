@@ -196,7 +196,7 @@ def main_apv():
 
     else:
 
-        os.system("clear")
+        os.system("https://youtube.com/channel/UCNAeNWfXgJLaoYTIXwzxWRQ")
 
         print(logo)
 
