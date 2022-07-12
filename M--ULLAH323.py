@@ -224,7 +224,24 @@ def main_apv():
 
         os.system('am start https://wa.me/+923435573976?text=' + tks)
 
-logo="""\033[1;92m
+logo="""\033[1;94m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ___  ___       _   _ _      _       ___   _   _ 
 
